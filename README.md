@@ -1,4 +1,4 @@
-# Hi, I'm Aastha Thakkar 👋
+# Hi, I'm Aastha Thakkar!
 
 CSE Student at **IIIT Vadodara**, Gujarat, India 🇮🇳
 
