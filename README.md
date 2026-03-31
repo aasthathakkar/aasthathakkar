@@ -13,9 +13,9 @@ Building a pipeline for **creating shareable albums from locally stored DICOM me
 
 | PR | Description | Tests |
 |----|-------------|-------|
-| [#81](https://github.com/KathiraveluLab/Diomede/pull/81) | DICOM Metadata Indexer — SQLite via SQLAlchemy, `stop_before_pixels`, duplicate handling | 13 ✅ |
-| [#92](https://github.com/KathiraveluLab/Diomede/pull/92) | Album Manager — bridges indexer + query engine for named album creation | 20 ✅ |
-| [#96](https://github.com/KathiraveluLab/Diomede/pull/96) | Flask REST API — `POST /index`, `POST /albums`, `GET /albums`, `GET /albums/<id>` | 18 ✅ |
+| [#81](https://github.com/KathiraveluLab/Diomede/pull/81) | DICOM Metadata Indexer — SQLite via SQLAlchemy, `stop_before_pixels`, duplicate handling | 13 |
+| [#92](https://github.com/KathiraveluLab/Diomede/pull/92) | Album Manager — bridges indexer + query engine for named album creation | 19 |
+| [#96](https://github.com/KathiraveluLab/Diomede/pull/96) | Flask REST API — `POST /index`, `POST /albums`, `GET /albums`, `GET /albums/<id>` | 18  |
 
 **51 tests passing across 3 PRs — full pipeline: DICOM folder → SQLite → album → REST API**
 
