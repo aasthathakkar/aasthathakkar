@@ -30,4 +30,4 @@ Domains: Machine Learning, Backend APIs, Medical Imaging (DICOM), Open Source
 📍 Find me
 
 GitHub: @aasthathakkar
-Location: Gandhinagar, Gujarat, India (IST — UTC+5:30)
+Location: Vadodara, Gujarat, India (IST — UTC+5:30)
