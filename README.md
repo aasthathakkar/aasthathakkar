@@ -17,7 +17,7 @@
 she/her · cs student at iiit vadodara · 2024–2028, building at the intersection of **ml, backend & medical imaging**. i'm meticulous and a little proud of it — i once wrote **18 unit tests for a single PR**. zero regrets.
 
 ![currently](https://img.shields.io/badge/currently-building%20medvault%20%F0%9F%8C%B8-FF9EC4?style=for-the-badge&labelColor=FF7FB0)
-![jee](https://img.shields.io/badge/JEE-98.26%25ile%20·%2099+%20in%20math-C9A7FF?style=for-the-badge&labelColor=B98CF0)
+
 
 ---
 
@@ -110,7 +110,7 @@ Secure store + retrieval for medical records, built on a clean backend.
 <!-- TODO: confirm spelling — "Diomede" vs "Dioemede" — then verify the link below is correct -->
 **🌐 [Diomede](https://github.com/aasthathakkar/Diomede)** &nbsp;![open source · PR #132](https://img.shields.io/badge/open%20source%20·%20PR%20%23132-C9A7FF?style=flat-square)
 
-Open-source contribution — fork I'm exploring + contributing to.
+Open-source contribution - fork I'm exploring + contributing to.
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ Open-source contribution — fork I'm exploring + contributing to.
 
 ## experience
 
-- **ML problem design + judge — HackIIITV**, IIIT Vadodara. Designed the ML problem statement and judged across **200+ participants** & **50+ teams**.
+- **ML problem design + judge - HackIIITV**, IIIT Vadodara. Designed the ML problem statement and judged across **200+ participants** & **50+ teams**.
 - **Technical Committee Member**, IIIT Vadodara.
 
 ---
