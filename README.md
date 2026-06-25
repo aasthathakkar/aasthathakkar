@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff9ec4,50:ffc9a3,100:c9a7ff&text=aastha%20thakkar&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=twinkling&desc=ml%20+%20backend%20+%20medical%20imaging&descSize=15&descAlignY=63&descColor=fff5fb" alt="aastha thakkar" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff9ec4,50:ffc9a3,100:c9a7ff&text=aastha%20thakkar&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=twinkling&desc=machine%20learning%20+%20|%20+%20backend%20+%20|%20+%20generative%20ai&descSize=15&descAlignY=63&descColor=fff5fb" alt="aastha thakkar" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9EC4&center=true&vCenter=true&width=520&height=40&lines=ml+engineer+in+training;open+source+contributor;always+building+something;i+love+ml+%26+debugging" alt="typing" />
 
