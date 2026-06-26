@@ -14,7 +14,7 @@
 
 ## hi, i'm aastha 🌸
 
-she/her · cs student at iiit vadodara · 2024–2028, building at the intersection of **ml, backend & medical imaging**. i'm meticulous and a little proud of it — i once wrote **18 unit tests for a single PR**. zero regrets.
+she/her · cs student at iiit vadodara · 2024–2028, building at the intersection of **ml, backend & medical imaging**. i'm meticulous and a little proud of it - i once wrote **18 unit tests for a single PR**. zero regrets.
 
 ![currently](https://img.shields.io/badge/currently-building%20medvault%20%F0%9F%8C%B8-FF9EC4?style=for-the-badge&labelColor=FF7FB0)
 
