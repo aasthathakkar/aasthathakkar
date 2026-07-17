@@ -81,7 +81,7 @@ AI medicine advisor — symptom checker, OCR expiry scanner, drug-safety warning
 
 **✉️ [Spam Email Detector](https://github.com/aasthathakkar/spam-email-detector)**
 
-Hybrid ML + rule-based classifier — Flask API + Chrome extension that flags spam live inside Gmail. ~98.5% accuracy, built for Amazon ML Summer School.
+Hybrid ML + rule-based classifier — Flask API + Chrome extension that flags spam live inside Gmail. ~98.5% accuracy.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
