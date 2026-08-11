@@ -120,7 +120,7 @@ Open-source contribution - fork I'm exploring + contributing to.
 
 ## experience
 
-- **Vounteered ML problem design and judging - HackIIITV'25, IIIT Vadodara**, Collaborated in organising HackIIITV'25 and helped in Designing the ML problem statement and judging across **200+ participants** & **50+ teams**.
+- **Volunteered ML problem design and judging - HackIIITV'25, IIIT Vadodara**, Collaborated in organising HackIIITV'25 and helped in Designing the ML problem statement and judging across **200+ participants** & **50+ teams**.
 - **Technical Committee Member**, IIIT Vadodara.
 
 ---
